@@ -1,0 +1,1 @@
+from doubles.dummy.create_participante_dummy import test_create_participante_with_dummy_background

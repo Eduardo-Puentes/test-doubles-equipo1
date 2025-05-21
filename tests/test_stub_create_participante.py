@@ -1,0 +1,1 @@
+from doubles.stub.create_participante_stub import test_create_participante_with_stubbed_db

@@ -1,1 +1,5 @@
+fastapi
+pydantic
 pytest
+pytest-asyncio
+pydantic[email]

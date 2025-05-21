@@ -1,0 +1,1 @@
+from doubles.mock.create_participante_mock import test_create_participante_with_full_mock
